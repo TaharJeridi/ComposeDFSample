@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComposeDFSample</string>
+    <string name="title_df_first">DFFirst</string>
+    <string name="title_df_second">DFSecond</string>
+    <string name="title_df_third">DFThird</string>
+</resources>
