@@ -1,4 +1,4 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.data
 
 enum class BottomNavItem(var route:String) {
     DfFirst(Screens.DFFirst.route),

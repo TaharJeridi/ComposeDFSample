@@ -1,6 +1,6 @@
 @file:Suppress("SpellCheckingInspection")
 
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.factory
 
 object DynamicFeaturePackageFactory {
 

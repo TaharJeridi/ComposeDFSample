@@ -1,8 +1,10 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.utilities
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.currentComposer
+import it.tjeridi.composedfsample.factory.DynamicFeaturePackageFactory
+import it.tjeridi.composedfsample.dfnotfound.DFNotFoundScreen
 
 object DynamicFeatureUtils {
 

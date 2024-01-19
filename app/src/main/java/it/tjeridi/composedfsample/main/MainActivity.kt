@@ -1,4 +1,4 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,6 +9,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import it.tjeridi.composedfsample.main.screen.MainContent
 import it.tjeridi.composedfsample.ui.theme.ComposeDFSampleTheme
 
 class MainActivity : ComponentActivity() {

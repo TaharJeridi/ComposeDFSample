@@ -1,4 +1,4 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.utilities
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.runtime.Composable

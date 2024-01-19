@@ -1,4 +1,4 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.widget
 
 import androidx.compose.material.BottomNavigation
 import androidx.compose.material.BottomNavigationItem
@@ -8,7 +8,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.graphics.Color
 import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
-import androidx.navigation.compose.rememberNavController
+import it.tjeridi.composedfsample.data.BottomNavItem
 
 @Composable
 fun DFBottomNavBar(navController:NavController) {

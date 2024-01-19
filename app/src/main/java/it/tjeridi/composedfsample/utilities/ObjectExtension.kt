@@ -1,7 +1,6 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.utilities
 
 import android.text.TextUtils
-import androidx.compose.foundation.layout.PaddingValues
 import java.lang.reflect.Method
 import java.lang.reflect.Modifier
 

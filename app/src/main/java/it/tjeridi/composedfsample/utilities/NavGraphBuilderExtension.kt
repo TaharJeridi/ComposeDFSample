@@ -1,8 +1,9 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.utilities
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.navigation.NavGraphBuilder
 import androidx.navigation.compose.composable
+import it.tjeridi.composedfsample.data.Screens
 
 fun NavGraphBuilder.dfFirst(paddingValues: PaddingValues) {
     composable(route = Screens.DFFirst.route) {

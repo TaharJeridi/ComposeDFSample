@@ -1,4 +1,4 @@
-package it.tjeridi.composedfsample
+package it.tjeridi.composedfsample.dfnotfound
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
